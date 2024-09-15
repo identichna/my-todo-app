@@ -1,4 +1,3 @@
-import functions
 import FreeSimpleGUI as sg
 
 label = sg.Text("Type in a to-do")

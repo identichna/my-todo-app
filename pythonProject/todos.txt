@@ -1,5 +1,6 @@
 prepare
 fix
-write
-addddd
-luka
+readbe niceluka
+make a soup
+master python
+buy juice

@@ -1,3 +1,5 @@
 prepare
 fix
 write
+addddd
+luka

@@ -2,5 +2,4 @@ prepare
 fix
 readbe niceluka
 make a soup
-master python
-buy juice
+take a break

@@ -24,7 +24,7 @@ while True:
 
         functions.write_todos("todos.txt", todos)
 
-        with open('todos.txt', 'w') as file:
+        with open('../todos.txt', 'w') as file:
             file.writelines(todos)
 
     elif user_action.startswith("show"):

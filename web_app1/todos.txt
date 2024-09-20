@@ -2,3 +2,4 @@ prepare
 add something
 clean the bag
 go to store
+buy grosery
